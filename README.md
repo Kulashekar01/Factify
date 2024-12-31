@@ -1,4 +1,4 @@
-# Factify
+# Factify 
 # The ultimate fake news detection app
 Fake News Detection Project
 
